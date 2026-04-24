@@ -31,3 +31,6 @@ npm-debug.log
 
 # OS generated
 Thumbs.db
+
+# Local solution deck (keep offline only)
+solution-deck/
