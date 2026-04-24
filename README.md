@@ -5,6 +5,26 @@
 
 ---
 
+## 📸 Screenshots
+
+### Android App
+| Home | KYC Dashboard | Document Capture |
+|:---:|:---:|:---:|
+| ![Home](screenshots/01_home.jpeg) | ![Dashboard](screenshots/02_kyc_dashboard.jpeg) | ![Capture](screenshots/03_document_capture.jpeg) |
+
+| Selfie | Review & Submit | Smart Assist |
+|:---:|:---:|:---:|
+| ![Selfie](screenshots/04_selfie.jpeg) | ![Review](screenshots/05_review_submit.jpeg) | ![Assist](screenshots/06_smart_assist.jpeg) |
+
+| Profile | Notifications | Verified |
+|:---:|:---:|:---:|
+| ![Profile](screenshots/07_profile.jpeg) | ![Notif](screenshots/08_notification.jpeg) | ![Verified](screenshots/09_verified.jpeg) |
+
+### Admin Panel
+![Admin Panel](screenshots/admin.jpg)
+
+---
+
 ## 📱 Overview
 
 A full-stack KYC (Know Your Customer) onboarding system consisting of:
