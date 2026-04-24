@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <stroke android:width="2dp" android:color="#80FFFFFF" android:dashWidth="8dp" android:dashGap="4dp" />
+    <!-- A hack to make an inverted hole using android:layerType="software" and clear color, but a simple transparent shape with dashed stroke is fine. -->
+</shape>
