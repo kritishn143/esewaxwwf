@@ -8,11 +8,11 @@
 ## 📸 Screenshots
 
 ### Android App
-| Home | KYC Dashboard | Document Capture |
+| Home | Get Started | Review & Submit |
 |:---:|:---:|:---:|
 | ![Home](screenshots/01_home.jpeg) | ![Dashboard](screenshots/02_kyc_dashboard.jpeg) | ![Capture](screenshots/03_document_capture.jpeg) |
 
-| Selfie | Review & Submit | Smart Assist |
+| Submission | Waiting | Virtual Assistant |
 |:---:|:---:|:---:|
 | ![Selfie](screenshots/04_selfie.jpeg) | ![Review](screenshots/05_review_submit.jpeg) | ![Assist](screenshots/06_smart_assist.jpeg) |
 
